@@ -1,3 +1,8 @@
 <inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="WeakerAccess" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="false" />
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="false" />
+    <option name="SUGGEST_PRIVATE_FOR_INNERS" value="true" />
+  </inspection_tool>
 </inspections>
