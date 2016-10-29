@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
     <option name="defaultScopeName" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
   </component>
 </application>
