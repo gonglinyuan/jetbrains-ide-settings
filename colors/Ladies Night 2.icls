@@ -1,8 +1,10 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -574,27 +576,6 @@
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_All">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Non-Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Problems">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Production">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Tests">
       <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
