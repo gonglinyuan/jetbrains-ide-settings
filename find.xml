@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
-    <option name="defaultScopeName" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
+    <option name="customScope" value="File 'C:\Users\gongl\AndroidStudioProjects\BicycleDatabase\app\src\main\java\gonlinyuan\gitbub\io\bicycledatabase\MainActivity.java'" />
+    <option name="defaultScopeName" value="File 'C:\Users\gongl\AndroidStudioProjects\BicycleDatabase\app\src\main\java\gonlinyuan\gitbub\io\bicycledatabase\MainActivity.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[InfinityLauncher-InfinityLauncher] - ...\InfinityLauncher'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\gongl\AndroidStudioProjects\BicycleDatabase\app\src\main\java\gonlinyuan\gitbub\io\bicycledatabase\MainActivity.java'" />
   </component>
 </application>
